@@ -55,8 +55,8 @@ class WhoAmI {
 <p align="center">
   <a href="https://github.com/aoirei00">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aoirei00&theme=blue-green"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoirei00&theme=blue-green"/>
-  </a>
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoirei00&theme=blue-green"/>
+  </a>-->
 </p>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
