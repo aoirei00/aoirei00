@@ -16,7 +16,7 @@ class WhoAmI {
     this.name = 'Jasmin Becerra';
     this.user_name = 'aoirei00';
     this.current_edu = 'UDG, Laboratoria';
-    this.currently_learning = 'Javascript';
+    this.currently_learning = 'Javascript, Typescript, Postgressql';
     this.location = 'Jalisco, Mexico';
     this.hobbies = ['Music', 'Anime', 'Gym', 'Movies'];
   }
